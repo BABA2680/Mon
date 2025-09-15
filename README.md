@@ -1,4 +1,4 @@
-git clone https://github.com/BABA2680/Mon/new/main?filename=README.md
+git clon https://github.com/BABA2680/Mon.git
 
 cd Mon
 
